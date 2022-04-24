@@ -31,6 +31,10 @@
 .pub/
 /build/
 /lib/utils/secrets.dart
+lib/utils/secrets.dart
+lib\util\secrets.dart
+\lib\util\secrets.dart
+
 
 # Web related
 lib/generated_plugin_registrant.dart
